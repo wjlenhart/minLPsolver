@@ -1,0 +1,15 @@
+{
+  "name": "Example 3: LP with finite upper bounds",
+  "variable_names": ["X1", "X2"],
+  "c": [3, 1],
+  "A_ub": [
+    [2, 1]
+  ],
+  "b_ub": [6],
+  "A_eq": [],
+  "b_eq": [],
+  "bounds": [
+    [0, 2],
+    [0, 3]
+  ]
+}

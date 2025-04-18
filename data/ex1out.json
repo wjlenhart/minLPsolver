@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "status": 0,
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "objective_value": 0.0,
+  "variable_values": {
+    "X1": 0.0,
+    "X2": 0.0
+  }
+}

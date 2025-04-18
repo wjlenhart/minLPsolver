@@ -1,0 +1,19 @@
+{
+  "name": "Example 2: LP with equality constraint",
+  "variable_names": ["X1", "X2", "X3"],
+  "c": [2, 1, 3],
+  "A_ub": [
+    [1, 1, 0],
+    [0, 2, 3]
+  ],
+  "b_ub": [5, 12],
+  "A_eq": [
+    [1, 1, 1]
+  ],
+  "b_eq": [7],
+  "bounds": [
+    [0, null],
+    [0, null],
+    [0, null]
+  ]
+}
