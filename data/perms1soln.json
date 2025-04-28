@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "status": 0,
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "objective_value": 4.0,
+  "variable_values": {
+    "x1": 2.0,
+    "x2": 2.0,
+    "x3": 3.0,
+    "x4": 1.0,
+    "x5": 1.0,
+    "x6": 2.0,
+    "y1": 2.0,
+    "y2": 3.0,
+    "y3": 2.0,
+    "y4": 3.0,
+    "y5": 1.0,
+    "y6": 1.0
+  }
+}
